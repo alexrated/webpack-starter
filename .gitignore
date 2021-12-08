@@ -1,4 +1,6 @@
 node_modules/
 dist/
-
-
+Dist
+Folder/file.ext
+.DS_Store
+.env
